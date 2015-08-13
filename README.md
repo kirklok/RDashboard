@@ -11,9 +11,9 @@ To run as a server application you'll need
 * rails
 * aws
 * R packages
-**shiny
-**dplyr
-**ggplot2
+  ** shiny
+  ** dplyr
+** ggplot2
 **reshape2
 **googleVis
 **RJSONIO
