@@ -5,11 +5,11 @@ Sourcing data from PostgreSQL database which should have at least two tables:
 * events
 
 Features
-*segmentation analysis
-*funnel analysis
-*retention analysis
-  *Dx, where X - number of days
-  *retention matrix
+* segmentation analysis
+* funnel analysis
+* retention analysis
+  * Dx, where X - number of days
+  * retention matrix
 
 
 App can be
