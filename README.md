@@ -10,6 +10,8 @@ Features
 * retention analysis
   * Dx, where X - number of days
   * retention matrix
+* power users
+* filtering events and users in real time
 
 
 App can be
