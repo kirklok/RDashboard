@@ -7,16 +7,6 @@ Requires a connection to database that would have at least two tables
 * cross-sectional data
 * events
 
-To run as a server application you'll need
-* rails
-* R
-* R packages
- * shiny
- * dplyr
- * ggplot2
- * reshape2
- * googleVis
- * RJSONIO
- * RPostgreSQL
- * magrittr
+To run on AWS server please follow these instructions:
+http://www.r-bloggers.com/instructions-for-installing-using-r-on-amazon-ec2/
 
