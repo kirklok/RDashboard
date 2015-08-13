@@ -12,7 +12,6 @@ require(magrittr)
 source("summary_stats.R")
 source("database_functions.R")
 
-#Begin Kirill Klokov code#
 # Define server logic for random distribution application
 shinyServer(function(input, output, session) { 
   
@@ -331,5 +330,3 @@ shinyServer(function(input, output, session) {
   })
   
 })
-
-#End Kirill Klokov code#
