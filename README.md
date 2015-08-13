@@ -9,7 +9,7 @@ Requires a connection to database that would have at least two tables
 
 To run as a server application you'll need
 * rails
-* aws
+* R
 * R packages
  * shiny
  * dplyr
