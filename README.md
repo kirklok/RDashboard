@@ -10,3 +10,13 @@ Requires a connection to database that would have at least two tables
 To run as a server application you'll need
 * rails
 * aws
+* R packages
+**shiny
+**dplyr
+**ggplot2
+**reshape2
+**googleVis
+**RJSONIO
+**RPostgreSQL
+**magrittr
+
